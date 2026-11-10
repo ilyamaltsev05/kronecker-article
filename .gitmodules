@@ -1,0 +1,6 @@
+[submodule "GraphBLAS"]
+	path = GraphBLAS
+	url = https://github.com/kijexs/GraphBLAS.git
+[submodule "masked-intersection"]
+	path = bench
+	url = https://github.com/ilyamaltsev05/masked-intersection.git
